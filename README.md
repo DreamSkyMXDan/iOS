@@ -1,4 +1,5 @@
 # iOS
+This includes a couple of models that are used by my apps that are sold to customers.</br></br>
 
 1. Module for taking photoes </br></br>
 This is a module that can be integrated in the app to take control of the camera, take photoes and save the uri for later usage.</br></br>
